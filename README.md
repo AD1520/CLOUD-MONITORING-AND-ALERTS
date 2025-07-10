@@ -23,3 +23,5 @@ The CloudWatch interface will now continuously help detect performance issues or
 
 # OUTPUT
 
+<img width="1919" height="698" alt="Image" src="https://github.com/user-attachments/assets/251e8ea3-6971-44a5-9bbb-30f1df560dbf" />
+
